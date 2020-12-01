@@ -1,0 +1,7 @@
+文章初学爬虫
+
+修改了User-Agent，构造请求头，应对初级的反爬机制
+使用time.sleep控制抓取时间
+
+使用了requests模块抓取和beautifulsoup解析文档
+爬取了一个网页的少部分图片存在文件夹中
